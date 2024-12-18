@@ -200,7 +200,7 @@ public class EditFoodServlet extends HttpServlet {
 
     }
 
-    public static void main(String[] args) {
+    public static void add() {
       
         
  
